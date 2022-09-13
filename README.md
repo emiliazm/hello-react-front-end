@@ -23,7 +23,7 @@ Setting up this project locally:
 - Clone this repository to your computer: git clone git@github.com:emiliazm/hello-react-front-end.git.
 - Open the project on your code editor: "cd hello-react-front-end" and "code ."
 - Install npm package: npm install.
-- Run the [backend app](https://github.com/emiliazm/hello-rails-backend) on the default port 3001 and the front app on any port.
+- Run the [backend app](https://github.com/emiliazm/hello-rails-backend/pull/1) on the default port 3001 and the front app on any port.
 - Run website: npm run start.
 
 
